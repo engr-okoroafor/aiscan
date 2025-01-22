@@ -9,15 +9,38 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@abandonware/noble": "^1.9.2-25",
+    "@reduxjs/toolkit": "^2.5.0",
+    "axios": "^1.7.9",
+    "cap": "^0.2.1",
+    "chart.js": "^4.4.7",
+    "d3": "^7.9.0",
+    "dotenv": "^16.4.7",
+    "groq-sdk": "^0.12.0",
+    "network-scanner": "^0.0.2",
+    "next": "15.1.4",
+    "nmap": "^1.1.0",
+    "noble": "^0.0.2",
+    "node-libnmap": "^0.2.15",
+    "node-wifi": "^2.0.16",
     "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.4"
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "shodan": "^0.1.0",
+    "shodan-client": "^3.1.5",
+    "socket.io-client": "^4.8.1",
+    "three": "^0.172.0",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.20",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
-    "@eslint/eslintrc": "^3"
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
   }
 }
