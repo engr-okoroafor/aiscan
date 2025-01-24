@@ -32,7 +32,7 @@ export default function IPScanner() {
   };
 
   return (
-    <div className="flex flex-col gap-4 p-4 max-w-full sm:max-w-xl lg:max-w-2xl xl:max-w-3xl mx-auto items-center">
+    <div className="flex flex-col gap-4 p-4 max-w-full sm:max-w-xl lg:max-w-2xl xl:max-w-3xl mx-auto">
       <h2 className="text-xl font-semibold text-gray-200">
         Scan IP Address or Domain Name
       </h2>
